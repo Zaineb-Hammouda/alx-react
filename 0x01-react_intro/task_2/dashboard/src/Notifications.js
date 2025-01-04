@@ -1,5 +1,7 @@
-import React from 'react';
-import './Notifications.css';
+import React from "react";
+import "./Notifications.css";
+import closeIcon from "./close-icon.png";
+import { getLatestNotification } from "./utils";
 
 function Notifications() {
   return (
@@ -9,7 +11,7 @@ function Notifications() {
         aria-label="Close"
         onClick={console.log("Close button has been clicked")}
       >
-        <img src={close_icon} alt="close_icon" width="10px" />
+        <img src={closeIcon} alt="closeIcon" width="10px" />
       </button>
       <p>Here is the list of notifications</p>
       <ul>

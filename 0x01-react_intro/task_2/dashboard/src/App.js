@@ -1,4 +1,3 @@
-import React from 'react';
 import logo from "./holberton-logo.jpg";
 import "./App.css";
 import { getFullYear, getFooterCopy } from "./utils";
@@ -12,7 +11,7 @@ function App() {
       </div>
       <div className="App-body">
         <p>Login to access the full dashboard</p>
-	<form>
+        <form>
           <label htmlFor="email">Email:</label>
           <input type="email" name="email"></input>
           <label htmlFor="password">Password:</label>
