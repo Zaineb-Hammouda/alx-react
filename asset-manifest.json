@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alx-react/static/css/main.89df82fa.chunk.css",
-    "main.js": "/alx-react/static/js/main.4d0d5dec.chunk.js",
-    "main.js.map": "/alx-react/static/js/main.4d0d5dec.chunk.js.map",
+    "main.js": "/alx-react/static/js/main.a3ad763c.chunk.js",
+    "main.js.map": "/alx-react/static/js/main.a3ad763c.chunk.js.map",
     "runtime-main.js": "/alx-react/static/js/runtime-main.5367bc4f.js",
     "runtime-main.js.map": "/alx-react/static/js/runtime-main.5367bc4f.js.map",
     "static/js/2.95caa904.chunk.js": "/alx-react/static/js/2.95caa904.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.23a3652b.chunk.js": "/alx-react/static/js/3.23a3652b.chunk.js",
     "static/js/3.23a3652b.chunk.js.map": "/alx-react/static/js/3.23a3652b.chunk.js.map",
     "index.html": "/alx-react/index.html",
-    "precache-manifest.a59261265f16363d86cfe13e51233fd2.js": "/alx-react/precache-manifest.a59261265f16363d86cfe13e51233fd2.js",
+    "precache-manifest.e6d4c6203f7ec1245788f006114d8dc8.js": "/alx-react/precache-manifest.e6d4c6203f7ec1245788f006114d8dc8.js",
     "service-worker.js": "/alx-react/service-worker.js",
     "static/css/main.89df82fa.chunk.css.map": "/alx-react/static/css/main.89df82fa.chunk.css.map",
     "static/js/2.95caa904.chunk.js.LICENSE.txt": "/alx-react/static/js/2.95caa904.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.5367bc4f.js",
     "static/js/2.95caa904.chunk.js",
     "static/css/main.89df82fa.chunk.css",
-    "static/js/main.4d0d5dec.chunk.js"
+    "static/js/main.a3ad763c.chunk.js"
   ]
 }

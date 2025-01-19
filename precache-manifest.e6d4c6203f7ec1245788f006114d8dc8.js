@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "477718deeffb8e5937f8389ce2b0d02f",
+    "revision": "2b2f7fbafffd82b7f7537d9a0d1a61b5",
     "url": "/alx-react/index.html"
   },
   {
-    "revision": "e4c23bc4116cbe55b297",
+    "revision": "ff8284fe3a2a2aa376fa",
     "url": "/alx-react/static/css/main.89df82fa.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alx-react/static/js/3.23a3652b.chunk.js"
   },
   {
-    "revision": "e4c23bc4116cbe55b297",
-    "url": "/alx-react/static/js/main.4d0d5dec.chunk.js"
+    "revision": "ff8284fe3a2a2aa376fa",
+    "url": "/alx-react/static/js/main.a3ad763c.chunk.js"
   },
   {
     "revision": "ad0c78094a085de108e1",
