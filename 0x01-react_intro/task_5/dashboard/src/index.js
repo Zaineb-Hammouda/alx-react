@@ -1,10 +1,14 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App/App";
+import Notifications from "./Notifications/Notifications";
 
-import './styles.css'; // Import CSS
-
-const App = () => {
-  return <h1>React App with Webpack and Babel</h1>;
-};
-
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
+  <React.StrictMode>
+    <div id="root-notifications">
+      <Notifications />
+    </div>
+    <App />
+  </React.StrictMode>,
+  document.getElementById("root")
+);
